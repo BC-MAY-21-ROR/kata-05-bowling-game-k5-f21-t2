@@ -1,5 +1,8 @@
 ![BrightCoders Logo](img/logo-bc.png)
 
+![RubyCritic](badges/app_badge_score.svg)
+
+![RubyCritic](badges/rubycritic_badge_score.svg)
 # Kata El Juego de Boliche
 ![cover](img/cover.jpg)
 
